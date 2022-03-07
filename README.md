@@ -1,2 +1,2 @@
 # Rock,Paper,Scissors game
- Rules : rock > scissors , paper > rock , scissors > paper
+ Rules : rock > scissors ; paper > rock ; scissors > paper
